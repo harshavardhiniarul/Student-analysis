@@ -1,4 +1,4 @@
-# Student Pass/Fail Prediction
+# Student Performance Prediction Using Neural Network
 
 This project uses a **Neural Network built from scratch using NumPy** to predict whether a student will **Pass or Fail**.
 
